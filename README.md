@@ -8,13 +8,13 @@
 
 # 🇺🇸 English
 
-# PyCool V4 — Ultimate Python Obfuscator
+# PyCool — Ultimate Python Obfuscator
 
 > Developed by Truong Nhat Bao Nam - ktn1703
 
 ## Overview
 
-PyCool V4 is a next-generation Python obfuscator designed to protect Python source code against:
+PyCool is a next-generation Python obfuscator designed to protect Python source code against:
 
 * static analysis
 * reverse engineering
