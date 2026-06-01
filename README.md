@@ -31,14 +31,6 @@ PyCool combines:
 * Unicode chaos obfuscation
 * runtime payload unpacking
 * high-entropy junk code generation
-
-Inspired by:
-
-* PyHydra
-* BensOBF
-* PyArmor-style protection
-* malware-grade packers
-
 ---
 
 # Features
