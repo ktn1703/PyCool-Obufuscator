@@ -1,3 +1,27 @@
+# Status
+
+⭐ 10 STARS = PUBLIC SOURCE ⭐
+
+If this repository reaches:
+
+```text id="x9mv9h"
+10 GitHub Stars
+```
+
+The full source code of:
+
+* VM excutor (Dynamic Opcode Mapping)
+* Anti-Hook Advanced (upgraded)
+* Anti-Debug Advanced (upgraded)
+* Anti-VM / Sandbox Advanced (upgraded)
+* Anti-Proxy Pro (upgraded)
+* Self-Modifying Code 
+* anti-analysis system
+
+will be released publicly.
+### SEE EXAMPLE IN [HERE](https://github.com/ktn1703/PyCool-Obufuscator/blob/main/example/obf-hello.py)
+---
+
 
 ## 🌐 Select your language / Chọn ngôn ngữ
 
@@ -203,28 +227,6 @@ Includes:
 
 ---
 
-# Status
-
-⭐ 10 STARS = PUBLIC SOURCE ⭐
-
-If this repository reaches:
-
-```text id="x9mv9h"
-10 GitHub Stars
-```
-
-The full source code of:
-
-* PyCool 
-* VM executor
-* RC4 engine
-* junk generator
-* anti-analysis system
-
-will be released publicly.
-
----
-
 # 🇻🇳 Tiếng Việt
 
 # PyCool — Ultimate Python Obfuscator
@@ -392,28 +394,6 @@ Bao gồm:
 * fake execution path
 
 20+ pattern khác nhau.
----
-
-# Status
-
-⭐ 10 STARS = PUBLIC SOURCE ⭐
-
-Nếu repository đạt:
-
-```text id="2gfflo"
-10 GitHub Stars
-```
-
-Toàn bộ source code:
-
-* PyCool 
-* VM executor
-* RC4 engine
-* junk generator
-* anti-analysis system
-
-sẽ được public.
-
 ---
 
 # Author
