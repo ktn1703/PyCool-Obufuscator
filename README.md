@@ -1,11 +1,11 @@
 # Status
 
-⭐ 10 STARS = PUBLIC SOURCE ⭐
+⭐ 25 STARS = PUBLIC SOURCE ⭐
 
 If this repository reaches:
 
 ```text id="x9mv9h"
-10 GitHub Stars
+25 GitHub Stars
 ```
 
 The full source code of:
