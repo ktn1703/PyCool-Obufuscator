@@ -1,25 +1,6 @@
-# Status
-
-⭐ 25 STARS = PUBLIC SOURCE ⭐
-
-If this repository reaches:
-
-```text id="x9mv9h"
-25 GitHub Stars
-```
-
-The full source code of:
-
-* VM excutor (Dynamic Opcode Mapping)
-* Anti-Hook Advanced (upgraded)
-* Anti-Debug Advanced (upgraded)
-* Anti-VM / Sandbox Advanced (upgraded)
-* Anti-Proxy Pro (upgraded)
-* Self-Modifying Code 
-* anti-analysis system
-
-will be released publicly.
+# [ PyCool Version 6.0 released!](https://github.com/ktn1703/PyCool-Obufuscator/blob/main/src/obf-pyv6.py)
 ### SEE EXAMPLE IN [HERE](https://github.com/ktn1703/PyCool-Obufuscator/blob/main/example/obf-hello.py)
+> 25 stars to get full source
 ---
 
 
@@ -102,7 +83,7 @@ PyCool là một Python obfuscator thế hệ mới được tạo ra để:
 
 ## Usage:
 ```bash
-python pycool.py
+python <version_you_want>.py 
 ```
 
 ---
